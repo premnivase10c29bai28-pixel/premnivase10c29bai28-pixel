@@ -6,6 +6,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Java+%7C+Python+%7C+SQL+Developer;Machine+Learning+%26+Data+Analytics;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/images/profile.png" width="220"/>
+
+# 👋 Hi, I'm Prem Nivas
+
+### AI & Data Science Student | Java Developer | Machine Learning Enthusiast
+
+</div>
 </div>
 
 ---
