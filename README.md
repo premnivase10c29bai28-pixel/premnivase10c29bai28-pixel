@@ -21,10 +21,11 @@
 🔐 Exploring Cybersecurity and Ethical Hacking
 
 🌱 Currently learning
-- Spring Boot
-- Deep Learning
+- Machine Learning
 - Data Structures & Algorithms
 - Cloud Computing
+- Attack on cybersecurity and defence startgies
+
 
 🎯 Goal: Become a Software Engineer / AI Engineer at a top tech company
 
@@ -35,19 +36,18 @@
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,sql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,bootstrap,flask" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 📊 Data Science & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 - Pandas
@@ -65,7 +65,7 @@
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,linux" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux" />
 </p>
 
 ---
