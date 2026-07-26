@@ -14,11 +14,6 @@
 ---
 <div align="center">
 
-<img src="D:\Downloads\ChatGPT Image Jul 26, 2026, 10_18_41 AM.png"
-     width="220"
-     style="border-radius:50%;"
-     alt="Prem Nivas"/>
-
 </div>
 
 ## 💫 About Me
