@@ -9,12 +9,8 @@
 ### AI & Data Science Student | Java Developer | Machine Learning Enthusiast
 
 </div>
-</div>
 
 ---
-<div align="center">
-
-</div>
 
 ## 💫 About Me
 
@@ -30,8 +26,7 @@
 - Machine Learning
 - Data Structures & Algorithms
 - Cloud Computing
-- Attack on cybersecurity and defence startgies
-
+- Attacks on cybersecurity and defense strategies
 
 🎯 Goal: Become a Software Engineer / AI Engineer at a top tech company
 
@@ -52,9 +47,6 @@
 </p>
 
 ### 📊 Data Science & AI
-
-<p>
-</p>
 
 - Pandas
 - NumPy
@@ -78,17 +70,13 @@
 
 # 🚀 Featured Projects
 
-
-Python • Tkinter • MySQL
-
-Smart lab observation verifier
+**Smart lab observation verifier**  
+*Python • Tkinter • MySQL*
 
 ---
 
-
-Java • MySQL
-
-Smart Waste Management System.
+**Smart Waste Management System**  
+*Java • MySQL*
 
 ---
 
@@ -105,17 +93,12 @@ Smart Waste Management System.
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
+<img height="170" src="https://vercel.app"/>
+<img height="170" src="https://herokuapp.com"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://vercel.app"/>
 </p>
 
 ---
@@ -123,9 +106,7 @@ Smart Waste Management System.
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://vercel.app"/>
 </p>
 
 ---
@@ -133,9 +114,7 @@ Smart Waste Management System.
 # 📚 Currently Learning
 
 ✔ Data Structures & Algorithms
-
 ✔ Machine Learning
-
 ✔ Cloud Computing
 
 ---
@@ -154,15 +133,15 @@ Smart Waste Management System.
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL_HERE@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -174,6 +153,6 @@ Smart Waste Management System.
 
 ### ⭐ "Code. Learn. Build. Repeat."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com"/>
 
 </div>
