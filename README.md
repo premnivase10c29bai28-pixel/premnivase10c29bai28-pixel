@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Data Science Student | Java Developer | Machine Learning Enthusiast | Cybersecurity Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Cybersecurity+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Cybersecurity+Learner;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -14,9 +14,10 @@
 
 🎓 AI & Data Science Undergraduate from India
 
-💻 Passionate about building intelligent, scalable, and real-world software applications.
+💻 Passionate about developing intelligent and scalable software.
 
 🤖 Interested in
+
 - Artificial Intelligence
 - Machine Learning
 - Data Analytics
@@ -24,32 +25,33 @@
 - Cybersecurity
 
 🌱 Currently Learning
-- Data Structures & Algorithms
+
 - Machine Learning
+- Data Structures & Algorithms
 - Cloud Computing
-- Cybersecurity & Defense Strategies
+- Cybersecurity
 
-🎯 **Career Goal**
+🎯 Goal
 
-Become a Software Engineer / AI Engineer at a top technology company.
+Become a Software Engineer / AI Engineer at a Top Tech Company.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,sql" />
-</p>
-
-### Database
+## 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,sql"/>
 </p>
 
-### Data Science
+## 🛢 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## 📊 Data Science
 
 - Pandas
 - NumPy
@@ -57,10 +59,10 @@ Become a Software Engineer / AI Engineer at a top technology company.
 - Matplotlib
 - Power BI
 
-### Tools
+## 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=github,vscode,linux"/>
 </p>
 
 ---
@@ -70,7 +72,7 @@ Become a Software Engineer / AI Engineer at a top technology company.
 ### 🧪 Smart Lab Observation Verifier
 Python • Tkinter • MySQL
 
-### ♻️ Smart Waste Management System
+### ♻ Smart Waste Management System
 Java • MySQL
 
 ### 📊 Machine Learning Projects
@@ -95,7 +97,7 @@ Java • MySQL
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnivase10c29bai28-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premnivase10c29bai28-pixel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,13 +111,21 @@ Java • MySQL
 
 </p>
 
+### If the above card doesn't load, use this instead:
+
+<p align="center">
+
+<img src="https://github-readme-leetcode-card.romitsagu.com/prem-nivas?theme=dark&show=graph,recent"/>
+
+</p>
+
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=premnivase10c29bai28-pixel&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=premnivase10c29bai28-pixel&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -136,7 +146,7 @@ Java • MySQL
 # 🎯 2026 Goals
 
 - Solve 300+ LeetCode Problems
-- Master Data Structures & Algorithms
+- Master DSA
 - Build Full Stack AI Projects
 - Contribute to Open Source
 - Earn Cloud Certifications
@@ -146,7 +156,7 @@ Java • MySQL
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/premnivase10c29bai28-pixel">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -168,11 +178,11 @@ Java • MySQL
 
 ---
 
-# 👀 Profile Visitors
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=premnivase10c29bai28-pixel&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=premnivase10c29bai28-pixel&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
