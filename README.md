@@ -1,3 +1,19 @@
+<div align="center">
+
+# 👋 Hi, I'm Prem Nivas
+
+### 🚀 AI & Data Science Student | Java Developer | Machine Learning Enthusiast | Cybersecurity Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Data+Science+Student;Java+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Cybersecurity+Learner;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 AI & Data Science Undergraduate from India
+
 💻 Passionate about developing intelligent and scalable software.
 
 🤖 Interested in
