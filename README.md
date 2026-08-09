@@ -43,7 +43,7 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 
 ## 🛢 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle"/>
 </p>
 
 ## 📊 Data Science
