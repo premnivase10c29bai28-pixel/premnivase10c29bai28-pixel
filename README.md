@@ -68,15 +68,14 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 ### 🧪 Smart Lab Observation Verifier
 Python • Tkinter • MySQL
 
-### ♻ Smart Waste Management System
+### ♻ Hyper Secure System
+Python • C
 ### ♻️ Smart Waste Management System
 Java • MySQL
 
 ### 📊 Machine Learning Projects
 
-- Spam Detection
-- Adult Income Prediction
-- Customer Segmentation
+
 @@ -88,57 +80,42 @@ Java • MySQL
 # 📈 GitHub Statistics
 
@@ -128,7 +127,7 @@ Java • MySQL
 
 # 📚 Currently Learning
 
-✔ Data Structures & Algorithms
+✔ Compter Network
 
 ✔ Machine Learning
 
