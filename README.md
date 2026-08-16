@@ -65,6 +65,7 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 <img src="https://skillicons.dev/icons?i=github,vscode,linux"/>
 </p>
 @@ -72,11 +65,10 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
+
 ### 🧪 Smart Lab Observation Verifier
 Python • Tkinter • MySQL
 
@@ -73,10 +74,10 @@ Python • C
 ### ♻️ Smart Waste Management System
 Java • MySQL
 
-### 📊 Machine Learning Projects
+### Patient Health Analysis
+Data Analytics •Python
 
 
-@@ -88,57 +80,42 @@ Java • MySQL
 # 📈 GitHub Statistics
 
 <p align="center">
