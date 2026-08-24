@@ -64,7 +64,7 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 <p>
 <img src="https://skillicons.dev/icons?i=github,vscode,linux"/>
 </p>
-@@ -72,11 +65,10 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
+ Become a Passionate Software Engineer / AI Engineer at a Top Tech Company.
 
 ### 🧪 Smart Lab Observation Verifier
 Python • Tkinter • MySQL
