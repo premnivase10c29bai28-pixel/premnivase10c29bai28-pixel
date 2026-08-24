@@ -137,7 +137,7 @@ Data Analytics •Python
 ✔ Cybersecurity
 
 ---
-@@ -157,33 +134,26 @@ Java • MySQL
+Java • MySQL
 # 🌐 Connect With Me
 
 <p>
