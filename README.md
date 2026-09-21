@@ -46,8 +46,8 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 </p>
 
 ## 🛢 Database
-<p align="center">
-  <img src="https://skillicons.dev" alt="MySQL and MongoDB" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ## 📊 Data Science
