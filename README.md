@@ -50,6 +50,10 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
+<p>
+  <img src="https://skillicons.dev" />
+</p>
+
 
 ## 📊 Data Science
 
