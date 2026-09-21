@@ -49,6 +49,7 @@ Become a Software Engineer / AI Engineer at a Top Tech Company.
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+   <img src="https://skillicons.dev" alt="Database Skills" />
 </p>
 <p>
   <img src="https://skillicons.dev" />
